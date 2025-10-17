@@ -14,12 +14,12 @@
 
 # Version 1.0 - *Released January 31st, 2014*
 
-***Speakability App Icon;***
+***Speakability App Icon***
 * White App Icon with the red Speakability logo centered within (below).
 
 ![](https://raw.github.com/andrew-je/Speakability/master/changelog-assets/icon.PNG)
 
-***Type to Talk;***
+***Type to Talk***
 * The use of the new AVSpeechSynthesizer foundation to implement a Augmentative Alternative Communication (AAC) soultion.
 * Utterance speed control slider
 * 11 quick access picture talk icons (AAC)
@@ -27,21 +27,21 @@
 
 ![](https://raw.github.com/andrew-je/Speakability/master/changelog-assets/typetotalk.PNG)
 
-***Picture Talk;***
+***Picture Talk***
 * Use of a plist and image tagging to provide a picture to speech (AAC) soultion.
 * 13 categories of icons
 * 148 icons 
 
 ![](https://raw.github.com/andrew-je/Speakability/master/changelog-assets/picturetalk1.PNG)  ![](https://raw.github.com/andrew-je/Speakability/master/changelog-assets/picturetalk2.PNG)
 
-***Mirror Talk;***
+***Mirror Talk***
 * 9 Speech Therapy face muscle exercises
 * Created using over 1500 keyframes 
 
 ![](https://raw.github.com/andrew-je/Speakability/master/changelog-assets/mirrortalk1.PNG)
 ![](https://raw.github.com/andrew-je/Speakability/master/changelog-assets/settings.PNG)
 
-***Other Features;***
+***Other Features***
 * Loading screen on application launch
 * Tutorial screens; Type to Talk, Picture & Mirror Talk (Shown to the user on first launch of the app)
 * About Speakability and Cloud Team page
