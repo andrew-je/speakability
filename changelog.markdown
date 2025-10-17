@@ -17,7 +17,7 @@
 ***Speakability App Icon;***
 * White App Icon with the red Speakability logo centered within (below).
 
-![](https://raw.github.com/andrew-je/Speakability/master/changelog-assets/Icon_1.PNG)
+![](https://raw.github.com/andrew-je/Speakability/master/changelog-assets/icon.PNG)
 
 ***Type to Talk;***
 * The use of the new AVSpeechSynthesizer foundation to implement a Augmentative Alternative Communication (AAC) soultion.
@@ -25,20 +25,21 @@
 * 11 quick access picture talk icons (AAC)
 * Text field functionality; (1) Tap once = cusour appears (2) Tap twice = text highlights (3) Tap three times = text cleared
 
-![](https://raw.github.com/andrew-je/Speakability/master/changelog-assets/Type To Talk_1.PNG)
+![](https://raw.github.com/andrew-je/Speakability/master/changelog-assets/typetotalk.PNG)
 
 ***Picture Talk;***
 * Use of a plist and image tagging to provide a picture to speech (AAC) soultion.
 * 13 categories of icons
 * 148 icons 
 
-![](https://raw.github.com/andrew-je/Speakability/master/changelog-assets/Picture Talk_1.PNG)  ![](https://raw.github.com/andrew-je/Speakability/master/changelog-assets/Picture Talk_2.PNG)
+![](https://raw.github.com/andrew-je/Speakability/master/changelog-assets/picturetalk1.PNG)  ![](https://raw.github.com/andrew-je/Speakability/master/changelog-assets/picturetalk2.PNG)
 
 ***Mirror Talk;***
 * 9 Speech Therapy face muscle exercises
 * Created using over 1500 keyframes 
 
-![](https://raw.github.com/andrew-je/Speakability/master/changelog-assets/Mirror Talk_1.PNG)
+![](https://raw.github.com/andrew-je/Speakability/master/changelog-assets/mirrortalk1.PNG)
+![](https://raw.github.com/andrew-je/Speakability/master/changelog-assets/settings.PNG)
 
 ***Other Features;***
 * Loading screen on application launch

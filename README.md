@@ -11,8 +11,8 @@ For my final year project in the BSc Multimedia & Web Computing program at Manch
 
 ***Change Log;***
 ====================================
-* All Speakability versions developed by me (before the sale) are documented within the [change log] (https://github.com/andrew-je/Speakability/blob/master/changelog.markdown).
+* All Speakability versions developed by me (before the sale) are documented within the [change log](https://github.com/andrew-je/Speakability/blob/master/changelog.markdown).
 
 ***Links;***
 ====================================
-[Twitter] (http://twitter.com/speakability1)
+[Twitter](http://twitter.com/speakability1)
